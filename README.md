@@ -1,6 +1,6 @@
 # packet-manipulation-pt1
 
-> The purpose of this project is to notify a user when they receieve an ICMP message
+> The purpose of this project is to notify a user when an ICMP message is received.
 
 ### Write-up
 
